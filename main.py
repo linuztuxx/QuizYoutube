@@ -29,7 +29,7 @@ st.markdown(f"""
 st.title(":red[QuizYouTube] - AI :brain:")
 
 st.write("""
-Finished a YouTube video and curious about your understanding? Welcome to **QuizYouTube**! by [Linuztuxx](https://github.com/linuztuxx)
+Finished a YouTube video and curious about your understanding? Welcome to **QuizYouTube**! by [Linuztx](https://github.com/linuztx)
 
 **How it works:**
  Paste the URL of a YouTube video with English captions.
